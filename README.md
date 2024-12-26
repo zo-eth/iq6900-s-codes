@@ -9,6 +9,7 @@ Transform your creativity into digital art with our ASCII art generator.
 ## **On-Chain Future Contract**
 Explore the cutting-edge of blockchain with our on-chain future contract system.
 - **Repository**: [zo-eth/code-in-contract](https://github.com/zo-eth/code-in-contract)
+- **Repository**: [zo-eth/code-in-for-eth](https://github.com/zo-eth/code-in-for-eth)
 
 ## **Code Compressor**
 Optimize your coding efficiency with our advanced code compression tool.
